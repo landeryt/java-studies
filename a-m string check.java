@@ -1,5 +1,5 @@
 class Printer {
-
+//Inputs a string, checks each digit if it's a letter between a-m, returns number of digits that didn't pass the filter along with the string length
     public static String printerError(String s) {
         int max = s.length();
         int good = 0;
