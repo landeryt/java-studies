@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//Really weird code. Apparently doesn't work if the error-check conditions are seperate
 class Kata
 {
     public static int sum(int[] numbers) {
