@@ -4,6 +4,7 @@ class Arge {
         // Always remember to divide by 100 before going into a loop, and that it's a percentage.
         percent = percent / 100;
         while (p0 < p) {
+            
             p0 += p0 * percent + aug;
             y++;
         }
