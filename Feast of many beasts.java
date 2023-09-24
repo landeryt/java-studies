@@ -1,3 +1,4 @@
+// Surprising that no one has a similar code
 class Kata {
     public static boolean feast(String beast, String dish) {
         beast = beast.toLowerCase();
