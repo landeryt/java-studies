@@ -1,4 +1,4 @@
-// Turns out 5 x 5 = 25, will make 2 zeroes instead of 1.
+// Turns out 5 x 5 = 25, will make 2 zeroes instead of 1. There are 2 fives, not one.
 // I did not manage to do this.
 class Solution {
     public static int zeros(int n) {
