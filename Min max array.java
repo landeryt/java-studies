@@ -10,6 +10,7 @@ class MinMax {
         result[0] = min;
         result[1] = max;
         return result;
+        // return new int[] {min, max};
     }
 }
 public class Main {
