@@ -1,4 +1,5 @@
 import java.io.*;
+// You need 2 files that the program can access, preferably in .txt format
 
 public class Main {
     public static void main(String[] args) {
